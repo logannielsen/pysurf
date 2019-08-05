@@ -17,6 +17,7 @@ black = "*"
 pre-commit = "*"
 isort = {extras = ["pipfile"]}
 "flake8" = "*"
+"e1839a8" = {path = ".", editable = true}
 
 
 [pipenv]
