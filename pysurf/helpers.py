@@ -12,8 +12,7 @@ def http_get(url):
     """Receives a url and performs a GET request,
     returns the html dom as text
     """
-    request = requests.get(url).text
-    return request
+    return requests.get(url).text
 
 
 # writing the data to a file
