@@ -1,0 +1,24 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+requests = "~=2.22"
+"beautifulsoup4" = "~=4.8"
+
+
+[dev-packages]
+
+black = "*"
+pre-commit = "*"
+isort = {extras = ["pipfile"]}
+"flake8" = "*"
+
+
+[pipenv]
+
+allow_prereleases = true
