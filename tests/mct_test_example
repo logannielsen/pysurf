@@ -1,0 +1,335 @@
+<div id="bd" class="global-bd"><div id="primary" class="global-primary">
+            <div  class="page page--tour-events">
+                <div class="page-wrap">
+
+
+
+                <div  class="page-footer">
+
+            <div  class="tour-group content-module">
+
+
+                <div  class="content-module-body">
+
+            <div class="tour-events">
+            <div class="tour-event tour-event--completed">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #1</span>
+
+                        <span class="tour-event-range">Complete: Apr 3 - 13</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2908/quiksilver-pro-gold-coast"  title="Quiksilver Pro Gold Coast">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Quiksilver Pro Gold Coast</span>
+
+                                    <span class="tour-event-location">Gold Coast, Queensland, Australia</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/1737\/italo-ferreira?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/1737/italo-ferreira" aria-label="Italo Ferreira" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/eb6081adcc5ae06fb2f46a64654c19e3.png?&x=250&y=250&icq=74&sig=35c22e2c9d7b2755e828dde91ad3fbae">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/1737/italo-ferreira">Italo Ferreira</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Brazil" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/9b4d7994a40d31f09a275058d9c4a6ad.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=56d554bffac55a6161598dfd415ae657"></span><span class="athlete-country-name">Brazil</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--completed">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #2</span>
+
+                        <span class="tour-event-range">Complete: Apr 17 - 27</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2909/rip-curl-pro-bells-beach"  title="Rip Curl Pro Bells Beach">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Rip Curl Pro Bells Beach</span>
+
+                                    <span class="tour-event-location">Bells Beach, Victoria, Australia</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/199\/john-john-florence?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/199/john-john-florence" aria-label="John John Florence" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/3834e812c13ce9f9aa3fc23a3b954cc9.png?&x=250&y=250&icq=74&sig=0089559ef4e425e0e8afb788cecc05a9">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/199/john-john-florence">John John Florence</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Hawaii" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/feaa9153ce75dc4f6cf702c82d9e7165.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=f66dacc23ab24cdae51a7da1183ecbbb"></span><span class="athlete-country-name">Hawaii</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--completed">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #3</span>
+
+                        <span class="tour-event-range">Complete: May 13 - 25</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2912/corona-bali-protected"  title="Corona Bali Protected">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Corona Bali Protected</span>
+
+                                    <span class="tour-event-location">Keramas, Bali, Indonesia</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/3896\/kanoa-igarashi?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/3896/kanoa-igarashi" aria-label="Kanoa Igarashi" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/341b617d96d948a64692768a215ddebb.png?&x=250&y=250&icq=74&sig=b7d91e3dd310f4e0149940c58c1bfbec">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/3896/kanoa-igarashi">Kanoa Igarashi</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Japan" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/5f4726fbb17dec2201d515622e7fa7a0.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=aaf41dcbd70470dabf43841e797abb93"></span><span class="athlete-country-name">Japan</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--completed">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #4</span>
+
+                        <span class="tour-event-range">Complete: May 29 - Jun 9</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2913/margaret-river-pro"  title="Margaret River Pro">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Margaret River Pro</span>
+
+                                    <span class="tour-event-location">Margaret River, Western Australia</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/199\/john-john-florence?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/199/john-john-florence" aria-label="John John Florence" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/3834e812c13ce9f9aa3fc23a3b954cc9.png?&x=250&y=250&icq=74&sig=0089559ef4e425e0e8afb788cecc05a9">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/199/john-john-florence">John John Florence</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Hawaii" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/feaa9153ce75dc4f6cf702c82d9e7165.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=f66dacc23ab24cdae51a7da1183ecbbb"></span><span class="athlete-country-name">Hawaii</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--completed">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #5</span>
+
+                        <span class="tour-event-range">Complete: Jun 20 - 28</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2916/oi-rio-pro"  title="Oi Rio Pro">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Oi Rio Pro</span>
+
+                                    <span class="tour-event-location">Saquarema, Rio de Janeiro, Brazil</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/1456\/filipe-toledo?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/1456/filipe-toledo" aria-label="Filipe Toledo" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/e69389dcfc8b7376e21ee43dfd581b5d.png?&x=250&y=250&icq=74&sig=fbe6ec325ff773fc7d14b558e75654f5">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/1456/filipe-toledo">Filipe Toledo</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Brazil" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/9b4d7994a40d31f09a275058d9c4a6ad.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=56d554bffac55a6161598dfd415ae657"></span><span class="athlete-country-name">Brazil</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--completed">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #6</span>
+
+                        <span class="tour-event-range">Complete: Jul 9 - 22</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2917/corona-open-j-bay"  title="Corona Open J-Bay">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Corona Open J-Bay</span>
+
+                                    <span class="tour-event-location">Jeffreys Bay, Eastern Cape, South Africa</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/1085\/gabriel-medina?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/1085/gabriel-medina" aria-label="Gabriel Medina" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/963540e78fcba88fefaefa45eb0b352f.png?&x=250&y=250&icq=74&sig=d46ec829c3bfad266e1abe47343614c8">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/1085/gabriel-medina">Gabriel Medina</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Brazil" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/9b4d7994a40d31f09a275058d9c4a6ad.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=56d554bffac55a6161598dfd415ae657"></span><span class="athlete-country-name">Brazil</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--upcoming">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #7</span>
+
+                        <span class="tour-event-range">Upcoming: Aug 21 - Sep 1</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2919/tahiti-pro-teahupoo"  title="Tahiti Pro Teahupo'o">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Tahiti Pro Teahupo'o</span>
+                                    <span class="tour-event-title-sponsor-name">Presented by Hurley</span>
+                                    <span class="tour-event-location">Teahupoʻo, Tahiti</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/1085\/gabriel-medina?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/1085/gabriel-medina" aria-label="Gabriel Medina" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/963540e78fcba88fefaefa45eb0b352f.png?&x=250&y=250&icq=74&sig=d46ec829c3bfad266e1abe47343614c8">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Defending Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/1085/gabriel-medina">Gabriel Medina</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Brazil" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/9b4d7994a40d31f09a275058d9c4a6ad.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=56d554bffac55a6161598dfd415ae657"></span><span class="athlete-country-name">Brazil</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--upcoming">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #8</span>
+
+                        <span class="tour-event-range">Upcoming: Sep 19 - 21</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2920/freshwater-pro"  title="Freshwater Pro">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Freshwater Pro</span>
+                                    <span class="tour-event-title-sponsor-name">Presented By Outerknown</span>
+                                    <span class="tour-event-location">Lemoore, California, United States</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/1085\/gabriel-medina?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/1085/gabriel-medina" aria-label="Gabriel Medina" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/963540e78fcba88fefaefa45eb0b352f.png?&x=250&y=250&icq=74&sig=d46ec829c3bfad266e1abe47343614c8">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Defending Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/1085/gabriel-medina">Gabriel Medina</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Brazil" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/9b4d7994a40d31f09a275058d9c4a6ad.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=56d554bffac55a6161598dfd415ae657"></span><span class="athlete-country-name">Brazil</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--upcoming">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #9</span>
+
+                        <span class="tour-event-range">Upcoming: Oct 3 - 13</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <a href="https://www.worldsurfleague.com/events/2019/mct/2923/quiksilver-pro-france"  title="Quiksilver Pro France">
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Quiksilver Pro France</span>
+
+                                    <span class="tour-event-location">Capbreton/Hossegor/Seignosse, Landes, Nouvelle-Aquitaine, France</span>
+                                </span>
+                             </a>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/763\/julian-wilson?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/763/julian-wilson" aria-label="Julian Wilson" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/0b7b8ec488a1883398fbd8ce1e17f7f4.png?&x=250&y=250&icq=74&sig=03ce2a30451079583db132e6c4e7dc7d">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Defending Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/763/julian-wilson">Julian Wilson</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Australia" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/b7368ede16a5208bc09caa54135cb94b.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=943718b3fc3ac90f28322228abb8dfc3"></span><span class="athlete-country-name">Australia</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--upcoming">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #10</span>
+
+                        <span class="tour-event-range">Upcoming: Oct 16 - 28</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <span>
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">MEO Rip Curl Pro Portugal</span>
+
+                                    <span class="tour-event-location">Peniche, Portugal</span>
+                                </span>
+                             </span>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/1737\/italo-ferreira?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/1737/italo-ferreira" aria-label="Italo Ferreira" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/eb6081adcc5ae06fb2f46a64654c19e3.png?&x=250&y=250&icq=74&sig=35c22e2c9d7b2755e828dde91ad3fbae">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Defending Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/1737/italo-ferreira">Italo Ferreira</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Brazil" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/9b4d7994a40d31f09a275058d9c4a6ad.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=56d554bffac55a6161598dfd415ae657"></span><span class="athlete-country-name">Brazil</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tour-event tour-event--upcoming">
+                <div class="tour-event-wrap">
+                    <div class="tour-event-hd">
+                        <span class="tour-event-tour-stop">CT #11</span>
+
+                        <span class="tour-event-range">Upcoming: Dec 8 - 20</span>
+                    </div>
+                    <div class="tour-event-bd">
+                        <div class="tour-event-detail">
+                            <span>
+                                <span class="tour-event-text-wrap">
+                                    <span class="tour-event-name">Billabong Pipe Masters</span>
+
+                                    <span class="tour-event-location">Banzai Pipeline, Oahu, Hawaii</span>
+                                </span>
+                             </span>
+                        </div>
+                        <div class="tour-event-champion">
+               <div  class="tooltip-item avatar avatar--athlete" data-tooltip="{&quot;url&quot;:&quot;\/athletes\/1085\/gabriel-medina?statCardType=default&quot;,&quot;type&quot;:&quot;statCard&quot;,&quot;requestName&quot;:&quot;athleteStatCard&quot;,&quot;desktopOnly&quot;:true}"><div class="avatar-image">
+                <a href="/athletes/1085/gabriel-medina" aria-label="Gabriel Medina" class="headshot proxy-img"  data-img-src="https://dqndusk8a84ol.cloudfront.net/image/963540e78fcba88fefaefa45eb0b352f.png?&x=250&y=250&icq=74&sig=d46ec829c3bfad266e1abe47343614c8">
+                    <span class="dest headshot-image"></span>
+                </a>
+            </div><div class="avatar-text"><div class="avatar-text-intro">Defending Champion</div><div class="avatar-text-primary"><a  class="athlete-name" href="/athletes/1085/gabriel-medina">Gabriel Medina</a></div><div class="avatar-text-secondary"><span class="athlete-country-flag proxy-img" title="Brazil" data-img-src="https://dqndusk8a84ol.cloudfront.net/image/9b4d7994a40d31f09a275058d9c4a6ad.png?&x=60&y=40&cx=2&cy=12&cw=60&ch=40&icq=74&sig=56d554bffac55a6161598dfd415ae657"></span><span class="athlete-country-name">Brazil</span></div></div></div>
+            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+                </div>
+
+
+            </div>
+
+                </div>
+
+                </div>
+            </div>
+
+
+</div></div></div></div>

@@ -105,3 +105,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+pysurf/
+
+pysurf/main.py
+pysurf/helpers.py
+pysurf/tests/test_helpers.py

@@ -1,0 +1,56 @@
+[1mdiff --git a/tests/test_helpers.py b/tests/test_helpers.py[m
+[1mindex b150fe5..f045471 100644[m
+[1m--- a/tests/test_helpers.py[m
+[1m+++ b/tests/test_helpers.py[m
+[36m@@ -1,9 +1,10 @@[m
+ import json[m
+ from pathlib import Path[m
+[31m-from unittest.mock import patch[m
+[32m+[m[32mfrom unittest.mock import patch, MagicMock, mock_open[m
+ [m
+ import pysurf.helpers[m
+ import pytest[m
+[32m+[m[32mfrom requests.exceptions import RequestException[m
+ [m
+ [m
+ def test_requests_session_has_ua_header_set():[m
+[36m@@ -12,12 +13,27 @@[m [mdef test_requests_session_has_ua_header_set():[m
+ [m
+ [m
+ def test_http_get():[m
+[31m-    http_get = pysurf.helpers.http_get[m
+[32m+[m[32m    http_get_response = pysurf.helpers.http_get_response[m
+[32m+[m[32m    pass[m
+[32m+[m
+[32m+[m
+[32m+[m[32mdef test_page_status():[m
+[32m+[m[32m    http_get_response = pysurf.helpers.http_get_response[m
+[32m+[m[32m    with pytest.raises(RequestException):[m
+[32m+[m[32m        http_get_response('https://httpbin.org/status/400')[m
+[32m+[m
+[32m+[m
+[32m+[m[32mdef test_http_get_text():[m
+[32m+[m[32m    http_get_text = pysurf.helpers.http_get_text[m
+     assert ([m
+[31m-        json.loads(http_get("https://httpbin.org/get"))["url"][m
+[32m+[m[32m        json.loads(http_get_text("https://httpbin.org/get"))["url"][m
+         == "https://httpbin.org/get"[m
+     )[m
+ [m
+[32m+[m[32m# def test_http_get_json():[m
+[32m+[m[32m#     http_get_json = pysurf.helpers.http_get_json[m
+[32m+[m[32m#     pass[m
+[32m+[m
+ [m
+ @pytest.mark.parametrize([m
+     "test, result",[m
+[36m@@ -52,3 +68,9 @@[m [mdef test_make_dirs_calls_os_makedirs_if_path_exists(exists_mock, make_mock):[m
+     assert make_mock is pysurf.helpers.os.makedirs[m
+     pysurf.helpers.create_dirs("path")[m
+     make_mock.assert_not_called()[m
+[32m+[m
+[32m+[m
+[32m+[m[32m# @patch("pysurf.helpers.open", return_value=MagicMock())[m
+[32m+[m[32m# def test_save_file_to_dir(exists_mock):[m
+[32m+[m[32m#     assert exists_mock.called[m
+[41m+[m
